@@ -29,5 +29,8 @@ the list is used for searching the repository you want <br>
   
 9.Algorithms
   这个代码是我学习算法时用过的代码
+  
+10.ProgrammingSkill
+  这个仓库是我学习C语言过程中学过的一些编程技巧之类的东西
 
 </pre>
