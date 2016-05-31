@@ -23,4 +23,7 @@ the list is used for searching the repository you want <br>
 7.ProgrammingSkill
   这个仓库是我学习C语言过程中学过的一些编程技巧之类的东西
 
+8.3DES
+	这个仓库里保存着我密码学大作业,使用3DES算法对文件进行加密,界面采用MFC编程,编译环境是windows xp sp3 + vc 6.0
+
 </pre>
